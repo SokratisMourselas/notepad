@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The main purpose of this project is to build a web application to manage personal notes, through every electronic device.
+
 ## Available Scripts
 
 In the project directory, you can run:
